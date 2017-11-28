@@ -1,0 +1,275 @@
+11/27/2017 04:42:41 PM - PocTests - INFO: Validating square root function
+11/27/2017 04:42:42 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/27/2017 04:42:42 PM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/27/2017 04:42:43 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/27/2017 04:43:27 PM - PocTests - INFO: Validating square root function
+11/27/2017 04:43:29 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/27/2017 04:43:29 PM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/27/2017 04:43:29 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/27/2017 05:18:18 PM - PocTests - INFO: Validating square root function
+11/27/2017 05:18:19 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/27/2017 05:18:19 PM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/27/2017 05:18:20 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 12:37:46 AM - PocTests - INFO: Validating count function
+11/28/2017 12:37:48 AM - Utils - INFO: Actual array from RZTDL : 1000 
+ Expected from Pandas/Python : 1000
+11/28/2017 12:37:48 AM - Aggregate - INFO: Verified the row count matches in both Data Frames
+11/28/2017 12:37:48 AM - PocTests - INFO: Validating square root function
+11/28/2017 12:37:48 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 12:37:48 AM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 12:37:49 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 12:37:49 AM - PocTests - INFO: Validating Power function
+11/28/2017 12:37:49 AM - Utils - ERROR: DataFrame are different
+
+DataFrame shape mismatch
+[left]:  (1000, 5)
+[right]: (1000, 6)
+11/28/2017 12:37:49 AM - Mathematical - ERROR: DF MATCH FAILED FOR POWER() FUNCTION
+11/28/2017 12:37:49 AM - PocTests - INFO: Validating Log2 function
+11/28/2017 12:40:17 AM - PocTests - INFO: Validating square root function
+11/28/2017 12:40:19 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 12:40:19 AM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 12:40:19 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 12:40:19 AM - PocTests - INFO: Validating Power function
+11/28/2017 12:40:20 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 12:40:20 AM - PocTests - INFO: Validating Log2 function
+11/28/2017 12:41:13 AM - PocTests - INFO: Validating square root function
+11/28/2017 12:41:15 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 12:41:15 AM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 12:41:15 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 12:41:15 AM - PocTests - INFO: Validating Power function
+11/28/2017 12:41:16 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 12:41:16 AM - PocTests - INFO: Validating Log2 function
+11/28/2017 09:59:36 AM - PocTests - INFO: Validating square root function
+11/28/2017 09:59:38 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 09:59:38 AM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 09:59:39 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 09:59:39 AM - PocTests - INFO: Validating Power function
+11/28/2017 09:59:39 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 09:59:39 AM - PocTests - INFO: Validating Log2 function
+11/28/2017 10:11:33 AM - PocTests - INFO: Validating square root function
+11/28/2017 10:11:34 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 10:11:34 AM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 10:11:35 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 10:11:35 AM - PocTests - INFO: Validating Power function
+11/28/2017 10:11:36 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 10:11:36 AM - PocTests - INFO: Validating Log2 function
+11/28/2017 10:11:36 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 10:11:36 AM - PocTests - INFO: Validating Log10 function
+11/28/2017 10:13:09 AM - PocTests - INFO: Validating square root function
+11/28/2017 10:13:10 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 10:13:10 AM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 10:13:11 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 10:13:11 AM - PocTests - INFO: Validating Power function
+11/28/2017 10:13:11 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 10:13:11 AM - PocTests - INFO: Validating Log2 function
+11/28/2017 10:13:12 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 10:13:12 AM - PocTests - INFO: Validating Log10 function
+11/28/2017 10:13:13 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG10() FUNCTION
+11/28/2017 10:13:13 AM - PocTests - INFO: Validating Log function
+11/28/2017 10:13:14 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 10:19:10 AM - PocTests - INFO: Validating square root function
+11/28/2017 10:19:11 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 10:19:11 AM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 10:19:12 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 10:19:12 AM - PocTests - INFO: Validating Power function
+11/28/2017 10:19:12 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 10:19:12 AM - PocTests - INFO: Validating Log2 function
+11/28/2017 10:19:13 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 10:19:13 AM - PocTests - INFO: Validating Log10 function
+11/28/2017 10:19:14 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG10() FUNCTION
+11/28/2017 10:19:14 AM - PocTests - INFO: Validating Log function
+11/28/2017 10:43:04 AM - PocTests - INFO: Validating square root function
+11/28/2017 10:43:06 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 10:43:06 AM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 10:43:06 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 10:43:06 AM - PocTests - INFO: Validating Power function
+11/28/2017 10:43:07 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 10:43:07 AM - PocTests - INFO: Validating Log2 function
+11/28/2017 10:43:08 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 10:43:08 AM - PocTests - INFO: Validating Log10 function
+11/28/2017 10:43:09 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG10() FUNCTION
+11/28/2017 10:43:09 AM - PocTests - INFO: Validating Log function
+11/28/2017 10:51:56 AM - PocTests - INFO: Validating square root function
+11/28/2017 10:51:57 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 10:51:57 AM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 10:51:58 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 10:51:58 AM - PocTests - INFO: Validating Power function
+11/28/2017 10:51:59 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 10:51:59 AM - PocTests - INFO: Validating Log2 function
+11/28/2017 10:51:59 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 10:51:59 AM - PocTests - INFO: Validating Log10 function
+11/28/2017 10:52:00 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG10() FUNCTION
+11/28/2017 10:52:00 AM - PocTests - INFO: Validating Log function
+11/28/2017 10:52:01 AM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG() FUNCTION
+11/28/2017 12:49:17 PM - PocTests - INFO: Validating to_uppper function
+11/28/2017 12:52:01 PM - PocTests - INFO: Validating to_uppper function
+11/28/2017 12:52:01 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_UPPER() FUNCTION
+11/28/2017 01:21:03 PM - PocTests - INFO: Validating to_upper function
+11/28/2017 01:21:04 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_UPPER() FUNCTION
+11/28/2017 01:21:04 PM - PocTests - INFO: Validating to_lower function
+11/28/2017 01:21:04 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_LOWER() FUNCTION
+11/28/2017 01:21:04 PM - PocTests - INFO: Validating to_title function
+11/28/2017 01:21:04 PM - Utils - ERROR: DataFrame.index are different
+
+DataFrame.index values are different (100.0 %)
+[left]:  Index(['male', 'male', 'female', 'male', 'male', 'male', 'male', 'female', 'female', 'male',
+       ...
+       'male', 'female', 'male', 'female', 'female', 'male', 'male', 'female', 'female', 'female'], dtype='object', name='gender', length=1000)
+[right]: Index(['Male', 'Male', 'Female', 'Male', 'Male', 'Male', 'Male', 'Female', 'Female', 'Male',
+       ...
+       'Male', 'Female', 'Male', 'Female', 'Female', 'Male', 'Male', 'Female', 'Female', 'Female'], dtype='object', name='gender', length=1000)
+11/28/2017 01:21:04 PM - StringFunctions - ERROR: DF MATCH FAILED FOR TO_TITLE() FUNCTION
+11/28/2017 01:21:04 PM - PocTests - INFO: Validating trim function
+11/28/2017 01:21:04 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TRIM() FUNCTION
+11/28/2017 01:21:04 PM - PocTests - INFO: Validating format_date function
+11/28/2017 01:28:05 PM - PocTests - INFO: Validating to_upper function
+11/28/2017 01:28:06 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_UPPER() FUNCTION
+11/28/2017 01:28:06 PM - PocTests - INFO: Validating to_lower function
+11/28/2017 01:28:06 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_LOWER() FUNCTION
+11/28/2017 01:28:06 PM - PocTests - INFO: Validating to_title function
+11/28/2017 01:28:06 PM - PocTests - INFO: Validating trim function
+11/28/2017 01:28:06 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TRIM() FUNCTION
+11/28/2017 01:28:06 PM - PocTests - INFO: Validating format_date function
+11/28/2017 01:28:47 PM - PocTests - INFO: Validating count function
+11/28/2017 01:28:47 PM - Utils - INFO: Actual array from RZTDL : 1000 
+ Expected from Pandas/Python : 1000
+11/28/2017 01:28:47 PM - Aggregate - INFO: Verified the row count matches in both Data Frames
+11/28/2017 01:28:47 PM - PocTests - INFO: Validating square root function
+11/28/2017 01:28:48 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 01:28:48 PM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 01:28:49 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 01:28:49 PM - PocTests - INFO: Validating Power function
+11/28/2017 01:28:50 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 01:28:50 PM - PocTests - INFO: Validating Log2 function
+11/28/2017 01:28:50 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 01:28:50 PM - PocTests - INFO: Validating Log10 function
+11/28/2017 01:28:51 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG10() FUNCTION
+11/28/2017 01:28:51 PM - PocTests - INFO: Validating Log function
+11/28/2017 01:28:52 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG() FUNCTION
+11/28/2017 01:28:52 PM - PocTests - INFO: Validating to_upper function
+11/28/2017 01:28:52 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_UPPER() FUNCTION
+11/28/2017 01:28:52 PM - PocTests - INFO: Validating to_lower function
+11/28/2017 01:28:52 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_LOWER() FUNCTION
+11/28/2017 01:28:52 PM - PocTests - INFO: Validating to_title function
+11/28/2017 01:28:52 PM - PocTests - INFO: Validating trim function
+11/28/2017 01:28:52 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TRIM() FUNCTION
+11/28/2017 01:28:52 PM - PocTests - INFO: Validating format_date function
+11/28/2017 01:29:02 PM - PocTests - INFO: Validating to_upper function
+11/28/2017 01:29:03 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_UPPER() FUNCTION
+11/28/2017 01:29:03 PM - PocTests - INFO: Validating to_lower function
+11/28/2017 01:29:03 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_LOWER() FUNCTION
+11/28/2017 01:29:03 PM - PocTests - INFO: Validating to_title function
+11/28/2017 01:29:03 PM - Utils - ERROR: DataFrame.index are different
+
+DataFrame.index values are different (100.0 %)
+[left]:  Index(['male', 'male', 'female', 'male', 'male', 'male', 'male', 'female', 'female', 'male',
+       ...
+       'male', 'female', 'male', 'female', 'female', 'male', 'male', 'female', 'female', 'female'], dtype='object', name='gender', length=1000)
+[right]: Index(['Male', 'Male', 'Female', 'Male', 'Male', 'Male', 'Male', 'Female', 'Female', 'Male',
+       ...
+       'Male', 'Female', 'Male', 'Female', 'Female', 'Male', 'Male', 'Female', 'Female', 'Female'], dtype='object', name='gender', length=1000)
+11/28/2017 01:29:03 PM - StringFunctions - ERROR: DF MATCH FAILED FOR TO_TITLE() FUNCTION
+11/28/2017 01:29:03 PM - PocTests - INFO: Validating trim function
+11/28/2017 01:29:03 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TRIM() FUNCTION
+11/28/2017 01:29:03 PM - PocTests - INFO: Validating format_date function
+11/28/2017 02:41:22 PM - PocTests - INFO: Validating count function
+11/28/2017 02:41:24 PM - Utils - INFO: Actual array from RZTDL : 1000 
+ Expected from Pandas/Python : 1000
+11/28/2017 02:41:24 PM - Aggregate - INFO: Verified the row count matches in both Data Frames
+11/28/2017 02:41:24 PM - PocTests - INFO: Validating square root function
+11/28/2017 02:41:25 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 02:41:25 PM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 02:41:25 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 02:41:25 PM - PocTests - INFO: Validating Power function
+11/28/2017 02:41:26 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 02:41:26 PM - PocTests - INFO: Validating Log2 function
+11/28/2017 02:41:27 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 02:41:27 PM - PocTests - INFO: Validating Log10 function
+11/28/2017 02:41:28 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG10() FUNCTION
+11/28/2017 02:41:28 PM - PocTests - INFO: Validating Log function
+11/28/2017 02:41:29 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG() FUNCTION
+11/28/2017 02:41:29 PM - PocTests - INFO: Validating to_upper function
+11/28/2017 02:41:29 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_UPPER() FUNCTION
+11/28/2017 02:41:29 PM - PocTests - INFO: Validating to_lower function
+11/28/2017 02:41:29 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_LOWER() FUNCTION
+11/28/2017 02:41:29 PM - PocTests - INFO: Validating to_title function
+11/28/2017 02:41:29 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_TITLE() FUNCTION
+11/28/2017 02:41:29 PM - PocTests - INFO: Validating trim function
+11/28/2017 02:41:29 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TRIM() FUNCTION
+11/28/2017 02:41:29 PM - PocTests - INFO: Validating format_date function
+11/28/2017 03:03:20 PM - PocTests - INFO: Validating count function
+11/28/2017 03:03:21 PM - Utils - INFO: Actual array from RZTDL : 1000 
+ Expected from Pandas/Python : 1000
+11/28/2017 03:03:21 PM - Aggregate - INFO: Verified the row count matches in both Data Frames
+11/28/2017 03:03:21 PM - PocTests - INFO: Validating square root function
+11/28/2017 03:03:22 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 03:03:22 PM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 03:03:23 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 03:03:23 PM - PocTests - INFO: Validating Power function
+11/28/2017 03:03:24 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 03:03:24 PM - PocTests - INFO: Validating Log2 function
+11/28/2017 03:03:24 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 03:03:24 PM - PocTests - INFO: Validating Log10 function
+11/28/2017 03:03:25 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG10() FUNCTION
+11/28/2017 03:03:25 PM - PocTests - INFO: Validating Log function
+11/28/2017 03:03:26 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG() FUNCTION
+11/28/2017 03:03:26 PM - PocTests - INFO: Validating to_upper function
+11/28/2017 03:03:26 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_UPPER() FUNCTION
+11/28/2017 03:03:26 PM - PocTests - INFO: Validating to_lower function
+11/28/2017 03:03:26 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_LOWER() FUNCTION
+11/28/2017 03:03:26 PM - PocTests - INFO: Validating to_title function
+11/28/2017 03:03:26 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_TITLE() FUNCTION
+11/28/2017 03:03:26 PM - PocTests - INFO: Validating trim function
+11/28/2017 03:03:26 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TRIM() FUNCTION
+11/28/2017 03:03:26 PM - PocTests - INFO: Validating format_date function
+11/28/2017 03:04:17 PM - PocTests - INFO: Validating count function
+11/28/2017 03:04:18 PM - Utils - INFO: Actual array from RZTDL : 1000 
+ Expected from Pandas/Python : 1000
+11/28/2017 03:04:18 PM - Aggregate - INFO: Verified the row count matches in both Data Frames
+11/28/2017 03:04:18 PM - PocTests - INFO: Validating square root function
+11/28/2017 03:04:19 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 03:04:19 PM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 03:04:20 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 03:04:20 PM - PocTests - INFO: Validating Power function
+11/28/2017 03:04:20 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 03:04:20 PM - PocTests - INFO: Validating Log2 function
+11/28/2017 03:04:21 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 03:04:21 PM - PocTests - INFO: Validating Log10 function
+11/28/2017 03:04:22 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG10() FUNCTION
+11/28/2017 03:04:22 PM - PocTests - INFO: Validating Log function
+11/28/2017 03:04:23 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG() FUNCTION
+11/28/2017 03:04:23 PM - PocTests - INFO: Validating to_upper function
+11/28/2017 03:04:23 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_UPPER() FUNCTION
+11/28/2017 03:04:23 PM - PocTests - INFO: Validating to_lower function
+11/28/2017 03:04:23 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_LOWER() FUNCTION
+11/28/2017 03:04:23 PM - PocTests - INFO: Validating to_title function
+11/28/2017 03:04:23 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_TITLE() FUNCTION
+11/28/2017 03:04:23 PM - PocTests - INFO: Validating trim function
+11/28/2017 03:04:23 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TRIM() FUNCTION
+11/28/2017 03:04:23 PM - PocTests - INFO: Validating format_date function
+11/28/2017 03:04:54 PM - PocTests - INFO: Validating count function
+11/28/2017 03:04:54 PM - Utils - INFO: Actual array from RZTDL : 1000 
+ Expected from Pandas/Python : 1000
+11/28/2017 03:04:54 PM - Aggregate - INFO: Verified the row count matches in both Data Frames
+11/28/2017 03:04:54 PM - PocTests - INFO: Validating square root function
+11/28/2017 03:04:55 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR SQRT() FUNCTION
+11/28/2017 03:04:55 PM - PocTests - INFO: Validating Inverse/Reciprocal of a column
+11/28/2017 03:04:56 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR INVERSE() FUNCTION
+11/28/2017 03:04:56 PM - PocTests - INFO: Validating Power function
+11/28/2017 03:04:57 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR POWER() FUNCTION
+11/28/2017 03:04:57 PM - PocTests - INFO: Validating Log2 function
+11/28/2017 03:04:57 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG2() FUNCTION
+11/28/2017 03:04:57 PM - PocTests - INFO: Validating Log10 function
+11/28/2017 03:04:58 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG10() FUNCTION
+11/28/2017 03:04:58 PM - PocTests - INFO: Validating Log function
+11/28/2017 03:04:59 PM - Mathematical - INFO: VERIFIED THE DF MATCHES FOR LOG() FUNCTION
+11/28/2017 03:04:59 PM - PocTests - INFO: Validating to_upper function
+11/28/2017 03:04:59 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_UPPER() FUNCTION
+11/28/2017 03:04:59 PM - PocTests - INFO: Validating to_lower function
+11/28/2017 03:04:59 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_LOWER() FUNCTION
+11/28/2017 03:04:59 PM - PocTests - INFO: Validating to_title function
+11/28/2017 03:04:59 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TO_TITLE() FUNCTION
+11/28/2017 03:04:59 PM - PocTests - INFO: Validating trim function
+11/28/2017 03:04:59 PM - StringFunctions - INFO: VERIFIED THE DF MATCHES FOR TRIM() FUNCTION
+11/28/2017 03:04:59 PM - PocTests - INFO: Validating format_date function
